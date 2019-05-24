@@ -1,0 +1,7 @@
+192.168.83.1 - - [24/May/2019:18:34:36 +0100] "GET / HTTP/1.1" 404 13777 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+192.168.83.1 - - [24/May/2019:18:34:37 +0100] "GET /_wdt/3567e6 HTTP/1.1" 200 4339 "http://blog.local/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+192.168.83.1 - - [24/May/2019:18:34:38 +0100] "GET /favicon.ico HTTP/1.1" 404 38753 "http://blog.local/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+192.168.83.1 - - [24/May/2019:18:35:17 +0100] "GET / HTTP/1.1" 404 13773 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+192.168.83.1 - - [24/May/2019:18:35:17 +0100] "GET /_wdt/85e408 HTTP/1.1" 200 4306 "http://blog.local/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+192.168.83.1 - - [24/May/2019:18:36:51 +0100] "GET / HTTP/1.1" 404 13776 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+192.168.83.1 - - [24/May/2019:18:36:52 +0100] "GET /_wdt/8fa0cd HTTP/1.1" 200 4301 "http://blog.local/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
